@@ -569,7 +569,7 @@ body {
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #0f33ff;
+    background-color: rgb(7, 255, 7);
     border: none;
     opacity: 0;
     visibility: hidden;
@@ -732,7 +732,7 @@ body {
     left: 0;
     width: 30px;
     height: 4px;
-    background-color: #0f33ff
+    background-color: rgb(7, 255, 7)
 }
 
 .intro--banner h1 {
