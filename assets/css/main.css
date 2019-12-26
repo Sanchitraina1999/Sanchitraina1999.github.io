@@ -504,7 +504,7 @@ body {
     -ms-flex-align: center;
     align-items: center;
     text-decoration: none;
-    color: #fff
+    color:rgb(4, 226, 255)
 }
 
 .header--logo p {
@@ -544,7 +544,7 @@ body {
     position: relative;
     width: 16px;
     height: 2px;
-    background-color: #fff
+    background-color: rgb(7, 255, 7)
 }
 
 .header--nav-toggle::before {
@@ -629,7 +629,7 @@ body {
     position: relative;
     top: 3px;
     left: 10px;
-    color: #fff;
+    color: rgb(7, 255, 7);
     font-size: 14px;
     font-weight: 300;
     opacity: 0;
@@ -802,13 +802,13 @@ body {
 .intro--options>a {
     max-width: 250px;
     text-decoration: none;
-    color: #282828;
+    color: rgb(255,255,255);
     -webkit-transition: color .2s ease-in-out;
     transition: color .2s ease-in-out
 }
 
 .intro--options>a:hover {
-    color: #fff
+    color:rgb(7, 255, 7)
 }
 
 .intro--options h3 {
