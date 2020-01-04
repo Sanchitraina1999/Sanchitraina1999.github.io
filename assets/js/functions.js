@@ -266,7 +266,6 @@ $( document ).ready(function() {
         $(this).addClass('has-value');
       }
 
-      // correct mobile device window position
       window.scrollTo(0, 0);
 
     });

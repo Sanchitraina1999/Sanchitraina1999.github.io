@@ -1597,7 +1597,7 @@ body {
 
 .work-request--options input[type="checkbox"]:checked+label {
     background-color: rgb(7, 255, 7);
-    border-color: rgb(7, 255, 7);
+    border-color: white;
 }
 
 .work-request--options input[type="checkbox"]:checked+label svg {
