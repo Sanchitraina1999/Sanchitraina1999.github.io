@@ -57,6 +57,11 @@ summary {
     display: block
 }
 
+#dp{
+    border-radius: 95%;
+}
+
+
 audio,
 canvas,
 progress,
